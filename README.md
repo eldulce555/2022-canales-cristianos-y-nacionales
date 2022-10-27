@@ -4,8 +4,11 @@
 #EXTINF:-1 , red adevenir 1
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
 
+#EXTINF:-1 , Nuevo tiempo Ecuador
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b1628000_slspa.m3u8
+
 #EXTINF:-1 , Nuevo tiempo Peru
-https://www.youtube.com/watch?v=PBI33CPJyPQ
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b1628000_slspa.m3u8
 
 #EXTINF:-1 , Novo tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b1628000_slpor.m3u8
@@ -15,12 +18,9 @@ http://streamer1.streamhost.org:1935/salive/GMIalfah/livestream.m3u8
 
 #EXTINF:-1,ESPERANZA
 http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1, Orar
-https://www.youtube.com/watch?v=LGk7PZmx1Lg
 
 
-#EXTINF:-1 , Am4rica tv
-https://www.youtube.com/watch?v=TXjZrT4nBvw
+
 #EXTINF:-1 , Panamericana
 http://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 , Ovacion
